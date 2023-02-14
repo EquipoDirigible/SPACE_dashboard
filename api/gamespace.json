@@ -1,0 +1,19 @@
+{
+    "GameSpace": [
+    {
+        "name": "Catán",
+        "description": "Catan es un juego de mesa que pondrá a prueba tus habilidades como estratega, con partidas emocionantes y distintas cada vez, ya que el tablero cambia con cada partida, un juego que es tan popular que incluso existen campeonatos por países y a nivel mundial, lo cual dice mucho de su calidad.",
+        "id": 1,
+        "price": 30,
+        "Number of players": {
+            "range": {
+              "minimum": 2,
+              "maximum": 5
+            }
+          },
+          
+        "Time": 40
+    }
+
+]
+}
